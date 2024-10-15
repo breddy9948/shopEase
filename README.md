@@ -14,9 +14,9 @@
 
 ### Technology Stack
 - **Backend**: Java Spring Boot
-- **Database**: MySQL / PostgreSQL (you can choose)
+- **Database**: MySQL / PostgreSQL 
 - **Security**: Spring Security with JWT
-- **Tools**: Maven, Docker (optional)
+- **Tools**: Maven
 
 ### Getting Started
 
